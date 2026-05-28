@@ -1,1 +1,2 @@
 Modulo clientes
+Se agrega validacion de clientes
